@@ -29,7 +29,7 @@ function Home({ search, getCryptoName }) {
         }).map((val) => (
           <div className="col-6 col-md-3 mt-5" key={val.id}>
             <div className="card">
-            <div className="mx-auto w-50 mt-5" style={{ width: "244px", height: "150px" }}>
+            <div className="mx-auto w-50 mt-5 mb-2" style={{ width: "244px", height: "150px" }}>
                   <img src={val.image} className="card-img-top" alt={val.id} />
                 </div>
               <div className="card-body">
