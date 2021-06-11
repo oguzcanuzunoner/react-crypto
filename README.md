@@ -30,7 +30,7 @@ Bu projede, Ana sayfada bütün kripto paraların güncel bilgilerine erişebili
 ### Home Page
 
 <p align="center">
-  <img src="readme_image/home_1.PNG" alt="Home">
+  <img src="readme_image/home.PNG" alt="Home">
 </p>
 
 ### Coin Page
