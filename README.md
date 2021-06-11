@@ -1,3 +1,6 @@
+## NETLIFY DEMO
+[NETLIFY DEMO - CLICK ](https://crypto-oguzcanuzunoner.netlify.app/)
+
 # Kripto Para Bilgilendirme Uygulaması
 
 Uygulamamızda, API'den çekilen kripto para bilgilerini listeliyoruz. Search kısmını kullanarak da arama işleminizi gerçekeltirebiliyorsunuz.
