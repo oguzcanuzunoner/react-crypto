@@ -29,7 +29,9 @@ function Home({ search, getCryptoName }) {
         }).map((val) => (
           <div className="col-6 col-md-3 mt-5" key={val.id}>
             <div className="card">
-              <img src={val.image} className="card-img-top" alt={val.id} />
+            <div className="mx-auto" style={{ width: "244px", height: "244px" }}>
+                  <img src={val.image} className="card-img-top" alt={val.id} />
+                </div>
               <div className="card-body">
                 <h5 className="card-title">
                   Current Price : {val.current_price}
