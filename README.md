@@ -3,11 +3,11 @@
 
 # Kripto Para Bilgilendirme Uygulaması
 
-Uygulamamızda, API'den çekilen kripto para bilgilerini listeliyoruz. Search kısmını kullanarak da arama işleminizi gerçekeltirebiliyorsunuz.
+Uygulamamızda, API'den çekilen kripto para bilgilerini listeliyoruz. Search kısmını kullanarak da arama işleminizi gerçekleştirebiliyorsunuz.
 
 ## Proje Hakkında
 
-Bu projede, Ana sayfada bütün kripto paraların güncel bilgilerine erişebilirsiniz. Bu bilgiler API'den çekilmektedir. Sayfanın üst kısmındaki search barından ise aramak istediğiniz kripto paranın adını yazabilirsiniz. Her kripto paranın altındaki "Go to Coin Details" butonuna bastığınızda ise o kripto paraya ait detay sayfasına yönelndirilirsiniz.
+Bu projede, Ana sayfada bütün kripto paraların güncel bilgilerine erişebilirsiniz. Bu bilgiler API'den çekilmektedir. Sayfanın üst kısmındaki search barından ise aramak istediğiniz kripto paranın adını yazabilirsiniz. Her kripto paranın altındaki "Go to Coin Details" butonuna bastığınızda ise o kripto paraya ait detay sayfasına yönlendirilirsiniz.
 
 ## Proje Teknik Bilgileri
 
